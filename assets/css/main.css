@@ -1555,15 +1555,23 @@ input, select, textarea {
 		form input[type="text"]:focus,
 		form input[type="email"]:focus,
 		form input[type="password"]:focus,
+		form input[type="date"]:focus,
+		form input[type="time"]:focus,
 		form select:focus,
 		form textarea:focus {
 			background: #f8f8f8;
 		}
 
 	form input[type="text"],
-	form input[type="email"]
-	input[type="password"] {
+	form input[type="email"],
+	input[type="password"]{
 		line-height: 1em;
+	}
+
+	form input[type="date"],
+	form input[type="time"],
+	#name {
+		height:3.5em;
 	}
 
 	form select {
