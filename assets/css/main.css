@@ -72,10 +72,6 @@ mark {
 	font-size:1.9em;
 }
 
-/* #bookButton {
-	margin-left:25%;
-} */
-
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
@@ -116,7 +112,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 400;
-		color: #919499;
+		color: #000;
 		font-size: 14pt;
 		line-height: 1.75em;
 		letter-spacing: 0.025em;
@@ -1711,6 +1707,10 @@ input, select, textarea {
 			color: #fff;
 		}
 
+		#backToTop {
+			color:#fff;
+		}
+
 			input[type="button"].style1:hover,
 			input[type="submit"].style1:hover,
 			input[type="reset"].style1:hover,
@@ -1885,7 +1885,7 @@ input, select, textarea {
 		}
 
 		.feature-list h3 {
-			color: #87bba2 !important;
+			color: #487f65 !important;
 			margin: -0.35em 0 0.75em 0;
 			font-size: 1.15em;
 			letter-spacing: 0.05em;
