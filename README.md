@@ -31,7 +31,7 @@ This repository hosts the code for The Elysian Salon & Wellness Lounge website. 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 </a> 
-<p>I used HTML5, CSS3, and JavaScript to create my portfolio website by customizing a template.</p>
+<p>I used my expertise in HTML5, CSS3, and JavaScript to create my portfolio website by tailoring a template to reflect exactly what the client wanted.</p>
 
 ## Optimizations
 <p>In a future iteration I will add a more robust booking functionality or integrate the website with a pre-existing booking software instead of using a form to be filled out and later approved by the salon.</p>
