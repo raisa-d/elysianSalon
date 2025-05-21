@@ -55,7 +55,4 @@ This repository hosts the code for The Elysian Salon & Wellness Lounge website. 
   <a href="https://www.linkedin.com/in/raisa-d/">
     <img src="https://img.shields.io/badge/LinkedIn-046E6D?logo=linkedin&style=for-the-badge">
   </a>
-  <a href="https://twitter.com/rai__bread" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-563d7c?logo=twitter&style=for-the-badge&logoColor=white" alt="rai__bread" />
-  </a> 
 </p>
