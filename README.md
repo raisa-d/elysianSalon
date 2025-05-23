@@ -49,7 +49,7 @@ This repository hosts the code for The Elysian Salon & Wellness Lounge website. 
 
 ## Contact
 <p> 
-  <a href="https://raisadorzback.netlify.app/" target="blank">
+  <a href="https://rai-dorzback.netlify.app/" target="blank">
     <img src="https://img.shields.io/badge/Website-563d7c?&style=for-the-badge" alt="Website">
   </a>
   <a href="https://www.linkedin.com/in/raisa-d/">
